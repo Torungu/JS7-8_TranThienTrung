@@ -1,1 +1,1 @@
-# 35BCE_Buoi7-8_TranThienTrung
+# 35BCE_JS7-8_TranThienTrung
